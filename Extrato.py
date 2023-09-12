@@ -1,0 +1,1 @@
+extrato: float = 0
